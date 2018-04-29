@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "besttop review online",
-  "description": "besttop review online",
+  "name": "Tool Geeky",
+  "description": "all kinds of top 10 best tools reviews and guides on this website. we are reviewing only best tools amazons products etc",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
