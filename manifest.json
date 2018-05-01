@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Tool Geeky",
-  "description": "all kinds of top 10 best tools reviews and guides on this website. we are reviewing only best tools amazons products etc",
+  "name": "Chatty Dog",
+  "description": "We are looking for talented emerging or established artists to be part of a project dedicated to the love of creation",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
