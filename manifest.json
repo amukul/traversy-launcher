@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Chatty Dog",
-  "description": "We are looking for talented emerging or established artists to be part of a project dedicated to the love of creation",
+  "name": "visita casas",
+  "description": "VisitaCasas is a site that tries to help people decorate their home by teaching everything related to interior decoration, interior design, architecture and everything related to these topics.",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
