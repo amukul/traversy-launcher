@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "visita casas",
-  "description": "VisitaCasas is a site that tries to help people decorate their home by teaching everything related to interior decoration, interior design, architecture and everything related to these topics.",
+  "description": "VisitaCasas is a site that tries to help people decorate their home by teaching everything topics.",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
